@@ -1,0 +1,6 @@
+{
+  "name": "AwaazAI",
+  "description": "Speak in Your Language. Access What You Need. A multilingual, voice-first AI assistant guiding users step-by-step to understand and access verified government schemes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
